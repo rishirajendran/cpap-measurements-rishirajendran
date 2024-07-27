@@ -1,0 +1,6 @@
+matplotlib
+pytest
+pytest-pycodestyle
+numpy
+scipy
+
